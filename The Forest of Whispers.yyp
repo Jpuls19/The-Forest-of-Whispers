@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"July Game Jam Project",
+  "%Name":"The Forest of Whispers",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -42,7 +42,7 @@
   "MetaData":{
     "IDEVersion":"2024.6.2.162",
   },
-  "name":"July Game Jam Project",
+  "name":"The Forest of Whispers",
   "resources":[
     {"id":{"name":"fGothic","path":"fonts/fGothic/fGothic.yy",},},
     {"id":{"name":"oBattle","path":"objects/oBattle/oBattle.yy",},},
